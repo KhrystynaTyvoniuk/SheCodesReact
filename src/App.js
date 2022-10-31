@@ -67,7 +67,7 @@ function App() {
   <p> Sat</p>
 </div>
 <div className='footer'>
-  <p> <a href='https://github.com/KhrystynaTyvoniuk'>Open-source code</a>, by <a href='https://www.instagram.com/khrysty.na/'>Khrystyna Tyvoniuk</a> from <a href='https://www.shecodes.io/'>SheCodes</a></p>
+  <p> <a href='https://github.com/KhrystynaTyvoniuk/SheCodesReact.git'>Open-source code</a>, by <a href='https://www.instagram.com/khrysty.na/'>Khrystyna Tyvoniuk</a> from <a href='https://www.shecodes.io/'>SheCodes</a></p>
 </div>
 </div>
     </div>
