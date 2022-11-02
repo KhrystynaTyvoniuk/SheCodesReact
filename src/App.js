@@ -32,7 +32,7 @@ function App() {
         <div className='main'>
           <div className='main_left'>
             <div className='temperature'>
-            <img src='/' alt='weather-logo' />
+         {data.weather ?    <img  src={`http://openweathermap.org/img/w/${data.weather[0].icon}.png`} alt='weather-logo' /> :null}
               {data.main ?<h2>{data.main.temp}°C</h2> :null}
             </div>
             <div className='weather_description'>
